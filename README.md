@@ -1,11 +1,29 @@
 
   # Cartilha de Administração Financeira
 
-  This is a code bundle for Cartilha de Administração Financeira. The original project is available at https://www.figma.com/design/qyEGiKk0ISfeNxd86tKZuA/Cartilha-de-Administra%C3%A7%C3%A3o-Financeira.
+  Guia completo e interativo para transformar sua relação com o dinheiro — dos conceitos básicos à prática.
 
-  ## Running the code
+  ## Link
 
-  Run `npm i` to install the dependencies.
+  https://cartilha-adm-financeira.vercel.app/
 
-  Run `npm run dev` to start the development server.
+  ## Projeto
+
+  Este repositório contém o código-fonte da Cartilha de Administração Financeira, uma aplicação web focada em educação financeira com conteúdo em formato de guia e componentes interativos (seções, quiz e calculadora).
+
+  Stack:
+  - React + Vite
+  - TypeScript
+  - Tailwind CSS
+
+  ## Rodando localmente
+
+  Instale as dependências:
+  `npm i`
+
+  Inicie o servidor de desenvolvimento:
+  `npm run dev`
+
+  Gere a build de produção:
+  `npm run build`
   
